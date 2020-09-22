@@ -1,6 +1,10 @@
 # List of wiki software
 
-# DokuWiki
+## Related lists
+
+* [github topic "wiki"](https://github.com/topics/wiki)
+
+## DokuWiki
 
 https://www.dokuwiki.org/dokuwiki
 
@@ -12,7 +16,7 @@ Backend: Filesystem
 
 License: GPL
 
-# Wiki.js
+## Wiki.js
 
 https://wiki.js.org/
 
@@ -24,7 +28,7 @@ Backend: PostgreSQL, MySQL
 
 License: AGPL
 
-# Gollum
+## Gollum
 
 Started: 2010
 
