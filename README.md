@@ -59,3 +59,10 @@ Programming language: Python
 
 License: GPL
 
+## XWiki
+
+Code: https://github.com/xwiki/xwiki-platform
+
+License: LGPL
+
+Programming Language: Java
